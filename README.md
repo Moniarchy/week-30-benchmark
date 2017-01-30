@@ -3,7 +3,9 @@
 ## Specifications
 
 -[] Guess The Number
+
 -[] Scrab-Bag
+
 -[] String Indices
 -[] Fibonacci Bases
 -[] The Disemvowling
