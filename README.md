@@ -7,17 +7,29 @@
 -[] Scrab-Bag
 
 -[] String Indices
+
 -[] Fibonacci Bases
+
 -[] The Disemvowling
+
 -[] Where in the JSON?
+
 -[] Who Wants A Date?
+
 -[] Play it again, JavaScript!
+
 -[] Parens-B-Gone
+
 -[] Resolving Symlinks
+
 -[] Lairotcaf
+
 -[] String Me Along
+
 -[] Braille
+
 -[] String Permutations
+
 -[] Finite State Gate
 
 ### 1: Guess The Number
