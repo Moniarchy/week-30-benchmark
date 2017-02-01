@@ -5,16 +5,11 @@ const {
   guessTheNumber,
   randomNumberGenerator } = require ( '../src/guess-the-number' )
 
-chai.use( chaiChange )
-
 describe( 'guessTheNumber', () => {
   'use strict'
 
   it( 'exists', () => {
     expect( guessTheNumber ).to.be.a( 'function' )
-  })
-  it( 'returns an error message if the user does not input a number', () => {
-    expect( guessTheNumber('food') ).to.equal('Please input a proper number.' )
   })
 
   context( 'randomNumberGenerator()', () =>
