@@ -13,7 +13,7 @@ describe( 'guessTheNumber', () => {
   })
 
   context( 'randomNumberGenerator()', () =>
-    it( 'generates a random number n', () => {
+    it( 'generates a number', () => {
       expect( randomNumberGenerator() ).to.be.a( 'number' )
     }),
     it( 'generates a number whose value is between 0 and 100', () => {
